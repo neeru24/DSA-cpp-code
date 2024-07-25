@@ -1,4 +1,4 @@
-### Day 40 = Sorting using Recursion
+### Sorting using Recursion
 Welcome to the repository for learning recursion in C++! 
 
 ### Contributing 🌟
